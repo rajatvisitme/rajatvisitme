@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajat Agrawal
 - 👀 I’m interested in research work based on Machine Learning, Computer Vision, and Autonomous Vehicles.
 - 🌱 I’m currently learning Data Science and Deep Learning Algorithms.
-- 💞️ I’m looking to collaborate with people having research interest in AI and Data Science.
+- 💞️ I’m looking to collaborate with people having research interests in AI and Data Science.
 - 📫 How to reach me? Drop an email at rajat.visitme@gmail.com
 
 <!---
